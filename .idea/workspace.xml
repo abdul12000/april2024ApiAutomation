@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="22d0a42c-78b3-45e5-ab6b-c1948de33c5e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test Results - TestRunner.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stepDefinitions/BaseSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stepDefinitions/SocialNetworkingStepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stepDefinitions/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/RequestBodyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/feature_files/SocialNetworking.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/payloads/PostPayload.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/payloads/UserPayload.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/restAssuredTests/SocialNetworkingPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runner/TestRunner.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" userTempatePath="" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2f0sHLz7mbfn6S36chiqGTafcIn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="runner" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestRunner">
+    <configuration name="SocialNetworkingPost.UpdateAPostUsingPatch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="april2024ApiAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="restAssuredTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="restAssuredTests" />
+      <option name="MAIN_CLASS_NAME" value="restAssuredTests.SocialNetworkingPost" />
+      <option name="METHOD_NAME" value="UpdateAPostUsingPatch" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SocialNetworkingPost.UpdateAPostUsingPut" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="april2024ApiAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="restAssuredTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="restAssuredTests" />
+      <option name="MAIN_CLASS_NAME" value="restAssuredTests.SocialNetworkingPost" />
+      <option name="METHOD_NAME" value="UpdateAPostUsingPut" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SocialNetworkingPost.createANewPost" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="april2024ApiAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="restAssuredTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="restAssuredTests" />
+      <option name="MAIN_CLASS_NAME" value="restAssuredTests.SocialNetworkingPost" />
+      <option name="METHOD_NAME" value="createANewPost" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SocialNetworkingPost.deleteASpecificPost" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="april2024ApiAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="restAssuredTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="restAssuredTests" />
+      <option name="MAIN_CLASS_NAME" value="restAssuredTests.SocialNetworkingPost" />
+      <option name="METHOD_NAME" value="deleteASpecificPost" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="april2024ApiAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner" />
+        <item itemvalue="JUnit.SocialNetworkingPost.deleteASpecificPost" />
+        <item itemvalue="JUnit.SocialNetworkingPost.UpdateAPostUsingPatch" />
+        <item itemvalue="JUnit.SocialNetworkingPost.UpdateAPostUsingPut" />
+        <item itemvalue="JUnit.SocialNetworkingPost.createANewPost" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22d0a42c-78b3-45e5-ab6b-c1948de33c5e" name="Changes" comment="" />
+      <created>1712949253577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712949253577</updated>
+    </task>
+    <servers />
+  </component>
+</project>
